@@ -16,7 +16,3 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2065
-- serviceName: project.git3sept.referencedata:r1
-  packages:
-  - name: Git3SeptProject
-    version: "1.0"
